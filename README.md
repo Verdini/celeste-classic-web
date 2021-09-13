@@ -13,6 +13,9 @@ mattmakesgames.com
 Noel Berry - code and art
 noelfb.com
 
-The original game can be played clicking the link below.
+### Go ahead and play the game :D
 
-https://mattmakesgames.itch.io/celesteclassic
+https://verdini.github.io/celeste-classic-web/
+
+
+Also, the original game can be played by clicking the following link: https://mattmakesgames.itch.io/celesteclassic
