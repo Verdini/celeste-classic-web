@@ -1,4 +1,3 @@
-# Celeste Classic Web
 This project is a port of Celeste Classic to the Game Maker Studio 2.
 
 The entire game can be played using the room rmOriginalGame, but you can make your custom levels 
